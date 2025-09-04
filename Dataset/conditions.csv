@@ -1,0 +1,203 @@
+condition_id,encounter_id,condition_name,is_primary
+C001,E001,Abdominal Pain,1
+C002,E001,Fracture,0
+C003,E001,Flu,0
+C004,E002,Chest Pain,1
+C005,E002,Hypertension,0
+C006,E002,Migraine,0
+C007,E003,Migraine,1
+C008,E003,Migraine,0
+C009,E003,Asthma,0
+C010,E004,Fracture,1
+C011,E005,Chest Pain,1
+C012,E005,Abdominal Pain,0
+C013,E006,Fracture,1
+C014,E007,Abdominal Pain,1
+C015,E007,Hypertension,0
+C016,E008,Chest Pain,1
+C017,E008,Asthma,0
+C018,E008,Fracture,0
+C019,E009,Chest Pain,1
+C020,E009,Fracture,0
+C021,E010,Abdominal Pain,1
+C022,E011,Abdominal Pain,1
+C023,E011,Flu,0
+C024,E012,Flu,1
+C025,E012,Migraine,0
+C026,E012,Fracture,0
+C027,E013,Abdominal Pain,1
+C028,E013,Fracture,0
+C029,E014,Chest Pain,1
+C030,E014,Hypertension,0
+C031,E015,Flu,1
+C032,E015,Abdominal Pain,0
+C033,E016,Migraine,1
+C034,E016,Migraine,0
+C035,E017,Diabetes,1
+C036,E017,Migraine,0
+C037,E018,Migraine,1
+C038,E019,Flu,1
+C039,E020,Asthma,1
+C040,E021,Hypertension,1
+C041,E021,Hypertension,0
+C042,E022,Abdominal Pain,1
+C043,E022,Hypertension,0
+C044,E022,Abdominal Pain,0
+C045,E023,Flu,1
+C046,E023,Diabetes,0
+C047,E024,Flu,1
+C048,E024,Chest Pain,0
+C049,E024,Migraine,0
+C050,E025,Fracture,1
+C051,E026,Fracture,1
+C052,E026,Fracture,0
+C053,E026,Flu,0
+C054,E027,Chest Pain,1
+C055,E028,Abdominal Pain,1
+C056,E028,Fracture,0
+C057,E029,Flu,1
+C058,E029,Chest Pain,0
+C059,E029,Fracture,0
+C060,E030,Flu,1
+C061,E030,Asthma,0
+C062,E031,Abdominal Pain,1
+C063,E031,Asthma,0
+C064,E031,Asthma,0
+C065,E032,Diabetes,1
+C066,E032,Asthma,0
+C067,E033,Fracture,1
+C068,E033,Abdominal Pain,0
+C069,E034,Abdominal Pain,1
+C070,E034,Abdominal Pain,0
+C071,E035,Migraine,1
+C072,E035,Migraine,0
+C073,E035,Hypertension,0
+C074,E036,Flu,1
+C075,E036,Abdominal Pain,0
+C076,E037,Fracture,1
+C077,E037,Diabetes,0
+C078,E038,Diabetes,1
+C079,E038,Flu,0
+C080,E039,Flu,1
+C081,E040,Chest Pain,1
+C082,E040,Hypertension,0
+C083,E040,Diabetes,0
+C084,E041,Migraine,1
+C085,E041,Migraine,0
+C086,E042,Diabetes,1
+C087,E042,Flu,0
+C088,E043,Abdominal Pain,1
+C089,E044,Abdominal Pain,1
+C090,E044,Abdominal Pain,0
+C091,E044,Asthma,0
+C092,E045,Migraine,1
+C093,E045,Migraine,0
+C094,E045,Hypertension,0
+C095,E046,Flu,1
+C096,E046,Asthma,0
+C097,E046,Asthma,0
+C098,E047,Flu,1
+C099,E047,Abdominal Pain,0
+C100,E047,Chest Pain,0
+C101,E048,Fracture,1
+C102,E048,Hypertension,0
+C103,E048,Migraine,0
+C104,E049,Hypertension,1
+C105,E049,Diabetes,0
+C106,E049,Hypertension,0
+C107,E050,Hypertension,1
+C108,E050,Diabetes,0
+C109,E050,Diabetes,0
+C110,E051,Fracture,1
+C111,E051,Chest Pain,0
+C112,E052,Fracture,1
+C113,E053,Asthma,1
+C114,E054,Fracture,1
+C115,E055,Abdominal Pain,1
+C116,E056,Hypertension,1
+C117,E056,Flu,0
+C118,E056,Chest Pain,0
+C119,E057,Diabetes,1
+C120,E057,Abdominal Pain,0
+C121,E058,Diabetes,1
+C122,E058,Fracture,0
+C123,E059,Diabetes,1
+C124,E059,Abdominal Pain,0
+C125,E059,Chest Pain,0
+C126,E060,Fracture,1
+C127,E060,Fracture,0
+C128,E060,Chest Pain,0
+C129,E061,Chest Pain,1
+C130,E061,Flu,0
+C131,E061,Asthma,0
+C132,E062,Migraine,1
+C133,E062,Flu,0
+C134,E062,Fracture,0
+C135,E063,Fracture,1
+C136,E063,Chest Pain,0
+C137,E063,Fracture,0
+C138,E064,Asthma,1
+C139,E064,Migraine,0
+C140,E065,Migraine,1
+C141,E065,Migraine,0
+C142,E065,Hypertension,0
+C143,E066,Hypertension,1
+C144,E066,Chest Pain,0
+C145,E067,Diabetes,1
+C146,E068,Migraine,1
+C147,E068,Flu,0
+C148,E069,Diabetes,1
+C149,E069,Fracture,0
+C150,E070,Fracture,1
+C151,E070,Flu,0
+C152,E070,Migraine,0
+C153,E071,Flu,1
+C154,E071,Asthma,0
+C155,E071,Chest Pain,0
+C156,E072,Fracture,1
+C157,E073,Diabetes,1
+C158,E073,Asthma,0
+C159,E074,Chest Pain,1
+C160,E075,Fracture,1
+C161,E076,Diabetes,1
+C162,E076,Fracture,0
+C163,E076,Diabetes,0
+C164,E077,Migraine,1
+C165,E077,Flu,0
+C166,E077,Flu,0
+C167,E078,Flu,1
+C168,E078,Fracture,0
+C169,E079,Fracture,1
+C170,E079,Asthma,0
+C171,E079,Migraine,0
+C172,E080,Asthma,1
+C173,E081,Abdominal Pain,1
+C174,E081,Migraine,0
+C175,E081,Hypertension,0
+C176,E082,Asthma,1
+C177,E082,Diabetes,0
+C178,E083,Fracture,1
+C179,E083,Migraine,0
+C180,E083,Chest Pain,0
+C181,E084,Fracture,1
+C182,E084,Chest Pain,0
+C183,E084,Fracture,0
+C184,E085,Chest Pain,1
+C185,E085,Asthma,0
+C186,E085,Abdominal Pain,0
+C187,E086,Flu,1
+C188,E086,Abdominal Pain,0
+C189,E087,Fracture,1
+C190,E088,Migraine,1
+C191,E088,Abdominal Pain,0
+C192,E089,Diabetes,1
+C193,E089,Fracture,0
+C194,E090,Migraine,1
+C195,E091,Chest Pain,1
+C196,E091,Abdominal Pain,0
+C197,E092,Diabetes,1
+C198,E093,Fracture,1
+C199,E093,Migraine,0
+C200,E094,Hypertension,1
+C201,E094,Abdominal Pain,0
+C202,E095,Fracture,1

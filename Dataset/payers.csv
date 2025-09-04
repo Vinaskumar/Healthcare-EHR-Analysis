@@ -1,0 +1,4 @@
+payer_id,payer_name,plan_type
+PA001,Blue Cross,PPO
+PA002,United Health,HMO
+PA003,Medicare,Government
